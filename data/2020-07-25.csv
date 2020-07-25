@@ -1,0 +1,63 @@
+away_id,away_score,game_date,game_id,home_id,home_score,status,team_name,win_status
+108,3.0,2020-07-24,631182,133,7.0,Final,Los Angeles Angels,0.0
+108,,2020-07-25,631181,133,,Scheduled,Los Angeles Angels,
+109,2.0,2020-07-24,631091,135,7.0,Final,Arizona Diamondbacks,0.0
+109,,2020-07-25,631092,135,,Scheduled,Arizona Diamondbacks,
+110,2.0,2020-07-24,631664,111,13.0,Final,Baltimore Orioles,0.0
+110,,2020-07-25,631666,111,,Pre-Game,Baltimore Orioles,
+110,2.0,2020-07-24,631664,111,13.0,Final,Boston Red Sox,1.0
+110,,2020-07-25,631666,111,,Pre-Game,Boston Red Sox,
+158,0.0,2020-07-24,631641,112,3.0,Final,Chicago Cubs,1.0
+158,,2020-07-25,631642,112,,Pre-Game,Chicago Cubs,
+116,1.0,2020-07-24,631589,113,7.0,Final,Cincinnati Reds,1.0
+116,,2020-07-25,631603,113,,Pre-Game,Cincinnati Reds,
+118,0.0,2020-07-24,631563,114,2.0,Final,Cleveland Indians,1.0
+118,,2020-07-25,631565,114,,Scheduled,Cleveland Indians,
+115,0.0,2020-07-24,630941,140,1.0,Final,Colorado Rockies,0.0
+115,,2020-07-25,630942,140,,Pre-Game,Colorado Rockies,
+116,1.0,2020-07-24,631589,113,7.0,Final,Detroit Tigers,0.0
+116,,2020-07-25,631603,113,,Pre-Game,Detroit Tigers,
+136,2.0,2020-07-24,631438,117,8.0,Final,Houston Astros,1.0
+136,,2020-07-25,631453,117,,Pre-Game,Houston Astros,
+118,0.0,2020-07-24,631563,114,2.0,Final,Kansas City Royals,0.0
+118,,2020-07-25,631565,114,,Scheduled,Kansas City Royals,
+137,1.0,2020-07-23,631377,119,8.0,Final,Los Angeles Dodgers,1.0
+137,1.0,2020-07-24,631378,119,9.0,Final,Los Angeles Dodgers,1.0
+137,,2020-07-25,631382,119,,Scheduled,Los Angeles Dodgers,
+147,,2020-07-23,630851,120,,Completed Early: Rain,Washington Nationals,
+147,,2020-07-25,630899,120,,Scheduled,Washington Nationals,
+144,0.0,2020-07-24,631242,121,1.0,Final,New York Mets,1.0
+144,,2020-07-25,631241,121,,Scheduled,New York Mets,
+108,3.0,2020-07-24,631182,133,7.0,Final,Oakland Athletics,1.0
+108,,2020-07-25,631181,133,,Scheduled,Oakland Athletics,
+134,4.0,2020-07-24,630989,138,5.0,Final,Pittsburgh Pirates,0.0
+134,,2020-07-25,630992,138,,Pre-Game,Pittsburgh Pirates,
+109,2.0,2020-07-24,631091,135,7.0,Final,San Diego Padres,1.0
+109,,2020-07-25,631092,135,,Scheduled,San Diego Padres,
+136,2.0,2020-07-24,631438,117,8.0,Final,Seattle Mariners,0.0
+136,,2020-07-25,631453,117,,Pre-Game,Seattle Mariners,
+137,1.0,2020-07-23,631377,119,8.0,Final,San Francisco Giants,0.0
+137,1.0,2020-07-24,631378,119,9.0,Final,San Francisco Giants,0.0
+137,,2020-07-25,631382,119,,Scheduled,San Francisco Giants,
+134,4.0,2020-07-24,630989,138,5.0,Final,St. Louis Cardinals,1.0
+134,,2020-07-25,630992,138,,Pre-Game,St. Louis Cardinals,
+141,6.0,2020-07-24,630966,139,4.0,Final,Tampa Bay Rays,1.0
+141,,2020-07-25,630967,139,,Pre-Game,Tampa Bay Rays,
+115,0.0,2020-07-24,630941,140,1.0,Final,Texas Rangers,1.0
+115,,2020-07-25,630942,140,,Pre-Game,Texas Rangers,
+141,6.0,2020-07-24,630966,139,4.0,Final,Toronto Blue Jays,0.0
+141,,2020-07-25,630967,139,,Pre-Game,Toronto Blue Jays,
+142,10.0,2020-07-24,631514,145,5.0,Final,Minnesota Twins,0.0
+142,,2020-07-25,631515,145,,Pre-Game,Minnesota Twins,
+146,5.0,2020-07-24,631121,143,2.0,Final,Philadelphia Phillies,1.0
+146,,2020-07-25,631108,143,,Scheduled,Philadelphia Phillies,
+144,0.0,2020-07-24,631242,121,1.0,Final,Atlanta Braves,0.0
+144,,2020-07-25,631241,121,,Scheduled,Atlanta Braves,
+142,10.0,2020-07-24,631514,145,5.0,Final,Chicago White Sox,1.0
+142,,2020-07-25,631515,145,,Pre-Game,Chicago White Sox,
+146,5.0,2020-07-24,631121,143,2.0,Final,Miami Marlins,0.0
+146,,2020-07-25,631108,143,,Scheduled,Miami Marlins,
+147,,2020-07-23,630851,120,,Completed Early: Rain,New York Yankees,
+147,,2020-07-25,630899,120,,Scheduled,New York Yankees,
+158,0.0,2020-07-24,631641,112,3.0,Final,Milwaukee Brewers,0.0
+158,,2020-07-25,631642,112,,Pre-Game,Milwaukee Brewers,
